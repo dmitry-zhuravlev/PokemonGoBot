@@ -6,7 +6,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 
@@ -71,7 +71,7 @@ crashlytics-build.properties
 fabric.properties
 
 # PTC Login credentials
-config.properties
+src/main/resources/config.properties
 
 # OS X files
 .DS_Store
